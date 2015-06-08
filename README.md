@@ -9,3 +9,4 @@
 ### Links ###
 
 * [Unity OSC Repo and OSCulator mappings](https://github.com/heaversm/unity-osc-receiver)
+* [UnityOSC Video Tutorial](https://vimeo.com/95584442) - older video describing the process of receiving messages in Unity from touchOSC
